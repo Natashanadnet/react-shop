@@ -1,8 +1,12 @@
-# React + Vite
+# Ecommerce webapp using React and Fake Store API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal project made to practice React/useContext and data fetching.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Things to cover:
+✅ List all the products
+✅ Add category filter
+✅ Add price range filter
+✅ Add products to shopping cart
+✅ Modify product quantity
+✅ Synchronize list of products with cart products
+✅ Save cart in local storage
